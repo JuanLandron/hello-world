@@ -1,5 +1,5 @@
 # hello-world
 My first repository
 
-Applying a commit change.
-Update.
+Updating readme. 
+Commit change.
